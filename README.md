@@ -1,4 +1,4 @@
-# PHP Labs 1-5
+# PHP Labs 1-5 (6-13 comming soon)
 
 This repository contains the PHP Lab assignments (1 to 5) that I completed as a **Teaching Assistant**, showcasing my proficiency in PHP programming and my ability to mentor students. These labs cover core concepts and practical applications of PHP, emphasizing dynamic web development.
 
@@ -10,7 +10,6 @@ This repository contains the PHP Lab assignments (1 to 5) that I completed as a 
   - [Installing XAMPP](#installing-xampp)
   - [Running the Labs](#running-the-labs)
 - [Folder Structure](#folder-structure)
-- [Contact](#contact)
 
 ---
 
