@@ -35,7 +35,7 @@
     }
     printNameWithArgWithoutReturn("Namra Pithwa");
   ```
-
+---
 ## 3. Without argument and with return
    ```php
      function printNameWithoutArgWithReturn()
