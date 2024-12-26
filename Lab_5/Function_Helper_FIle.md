@@ -39,14 +39,14 @@
     {
         echo $name . "<br/>";
     }
-    printNameWithArgWithoutReturn("Namra Pithwa");
+    printNameWithArgWithoutReturn("ABC");
   ```
 ---
 ## 3. Without argument and with return
    ```php
      function printNameWithoutArgWithReturn()
      {
-         return "Namra Pithwa<br/>";
+         return "ABC<br/>";
      }
      echo printNameWithoutArgWithReturn();
    ```
@@ -58,5 +58,5 @@
     {
         return $name . "<br/>";
     }
-    echo printNameWithArgWithReturn("Namra Pithwa");
+    echo printNameWithArgWithReturn("ABC");
   ```
