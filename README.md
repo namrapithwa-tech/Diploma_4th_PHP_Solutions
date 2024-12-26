@@ -16,12 +16,11 @@ This repository contains the PHP Lab assignments (1 to 5) that I completed as a 
 ## Overview
 As a Teaching Assistant, I actively contributed to the learning experience by developing, refining, and assisting students with the following PHP lab assignments:
 
-1. **Lab 1:** Basics of PHP (variables, arrays, loops, and conditionals)
-2. **Lab 2:** Form handling and data validation
-3. **Lab 3:** Working with sessions, cookies, and authentication
-4. **Lab 4:** CRUD operations with MySQL
-5. **Lab 5:** File handling and advanced PHP techniques
-
+1. **Lab 1:** Demonstration of basics of PHP programming
+2. **Lab 2:** Implementation of decision-making statements (Part – I)
+3. **Lab 3:** Implementation of decision-making statements (Part – II)
+4. **Lab 4:** Implementation of array
+5. **Lab 5:** Demonstration of function (User Defiend Function)
 Each lab is designed to build upon the previous, offering students a hands-on approach to mastering PHP.
 
 ---
