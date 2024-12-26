@@ -31,13 +31,13 @@ _**1. Without argument and without return
   ```
 
 ## 3. Without argument and with return
-    ```php
+   ```php
      function printNameWithoutArgWithReturn()
      {
          return "Namra Pithwa<br/>";
      }
      echo printNameWithoutArgWithReturn();
-    ```
+   ```
 
 ## 4. With argument and with return
   ```php
