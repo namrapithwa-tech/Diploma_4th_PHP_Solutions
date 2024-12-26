@@ -7,10 +7,11 @@
 ## Create a Function
   - A user-defined function declaration starts with the keyword function, followed by the name of the function:
 
-_**1. Without argument and without return
-2. With argument and without return
-3. Without argument and with return
-4. With argument and with return**_
+
+### 1. Without argument and without return
+### 2. With argument and without return
+### 3. Without argument and with return
+### 4. With argument and with return
 
 ## 1. Without argument and without return
   ```php
