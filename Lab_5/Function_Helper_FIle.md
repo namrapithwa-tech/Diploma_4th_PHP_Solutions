@@ -12,7 +12,7 @@ _**1. Without argument and without return
 3. Without argument and with return
 4. With argument and with return**_
 
-## 1.  // Without argument and without return
+## 1. Without argument and without return
   ```php
     function printNameWithoutArgWithoutReturn()
     {
@@ -21,23 +21,29 @@ _**1. Without argument and without return
     printNameWithoutArgWithoutReturn();
   ```
 
-2.  // With argument and without return
+## 2. With argument and without return
+   ```php
     function printNameWithArgWithoutReturn($name)
     {
         echo $name . "<br/>";
     }
     printNameWithArgWithoutReturn("Namra Pithwa");
+  ```
 
-3.  // Without argument and with return
+## 3. Without argument and with return
+    ```php
     function printNameWithoutArgWithReturn()
     {
         return "Namra Pithwa<br/>";
     }
     echo printNameWithoutArgWithReturn();
+    ```
 
-4.  // With argument and with return
+## 4. With argument and with return
+  ```php
     function printNameWithArgWithReturn($name)
     {
         return $name . "<br/>";
     }
     echo printNameWithArgWithReturn("Namra Pithwa");
+  ```
