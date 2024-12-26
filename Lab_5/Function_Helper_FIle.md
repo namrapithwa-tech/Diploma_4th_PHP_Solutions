@@ -8,8 +8,14 @@
    
 ## Create a Function
   - A user-defined function declaration starts with the keyword function, followed by the name of the function:
+   ```php
+    function myFunction() {
+       echo "Hello world!";
+    }
+   ```
 
 ---
+## Type of User Defined Function
 
 ### 1. Without argument and without return
 ### 2. With argument and without return
