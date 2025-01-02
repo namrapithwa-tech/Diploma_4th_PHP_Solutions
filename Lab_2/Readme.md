@@ -1,0 +1,8 @@
+# Implementation of decision-making statements (Part – I)
+1. WAP to check whether the given number is odd or even. (A)
+2. WAP to check whether the given number is positive, negative or Zero. (A)
+3. WAP to nd greatest number from 2 numbers. (A)
+4. WAP to nd greatest number from 3 numbers. (B)
+5. WAP to convert temperature from Fahrenheit to Celsius. (B)
+6. WAP to print class of result based on percentage (i.e. less than 40% -> Fail, 40% to 50% -> Pass Class, 50% to 60% -> Second Class, 60% to 70% -> First Class, above 70% -> Distinction). (C)
+7. WAP that reads a number in meters, converts it to feet, and displays the result. (C)
