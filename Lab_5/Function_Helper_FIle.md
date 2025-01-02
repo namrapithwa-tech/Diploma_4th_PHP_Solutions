@@ -12,6 +12,7 @@
     function myFunction() {
        echo "Hello world!";
     }
+    myFunction();
    ```
 
 ---
