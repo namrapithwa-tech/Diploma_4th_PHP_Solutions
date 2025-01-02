@@ -1,4 +1,4 @@
-# PHP Labs 1-5 (7-13 comming soon)
+# PHP Labs 1-6 (7-13 comming soon)
 
 This repository contains the PHP Lab assignments (1 to 6) that I completed as a **Teaching Assistant**, showcasing my proficiency in PHP programming and my ability to mentor students. These labs cover core concepts and practical applications of PHP, emphasizing dynamic web development.
 
