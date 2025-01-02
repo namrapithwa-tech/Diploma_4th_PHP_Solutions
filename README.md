@@ -1,6 +1,6 @@
-# PHP Labs 1-5 (6-13 comming soon)
+# PHP Labs 1-5 (7-13 comming soon)
 
-This repository contains the PHP Lab assignments (1 to 5) that I completed as a **Teaching Assistant**, showcasing my proficiency in PHP programming and my ability to mentor students. These labs cover core concepts and practical applications of PHP, emphasizing dynamic web development.
+This repository contains the PHP Lab assignments (1 to 6) that I completed as a **Teaching Assistant**, showcasing my proficiency in PHP programming and my ability to mentor students. These labs cover core concepts and practical applications of PHP, emphasizing dynamic web development.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -21,6 +21,7 @@ As a Teaching Assistant, I actively contributed to the learning experience by de
 3. **Lab 3:** Implementation of decision-making statements (Part – II)
 4. **Lab 4:** Implementation of array
 5. **Lab 5:** Demonstration of function (User Defiend Function)
+6. **Lab 6:** Implementation of recursion and form processing
 Each lab is designed to build upon the previous, offering students a hands-on approach to mastering PHP.
 
 ---
@@ -82,14 +83,15 @@ Each lab is designed to build upon the previous, offering students a hands-on ap
 ## Folder Structure
 ```
 php-labs/
-├── lab1/         # Basics of PHP
-├── lab2/         # Form handling
-├── lab3/         # Sessions and cookies
-├── lab4/         # CRUD operations
-├── lab5/         # File handling
+├── lab1/         # Demonstration of basics of PHP programming
+├── lab2/         # Implementation of decision-making statements (Part – I)
+├── lab3/         # Implementation of decision-making statements (Part – II)
+├── lab4/         # Implementation of array
+├── lab5/         # Demonstration of function (User Defiend Function)
+├── lab6/         # Implementation of recursion and form processing
 └── README.md     # Documentation
 ```
-More Labs ( 6 to 13 ) Comming soon....!!!
+More Labs ( 7 to 13 ) Comming soon....!!!
 ---
 
 Feel free to reach out for collaboration or mentoring opportunities!
