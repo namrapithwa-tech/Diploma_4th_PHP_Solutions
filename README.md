@@ -1,4 +1,4 @@
-# PHP Labs 1-5 (7-13 comming soon)
+# PHP Labs 1-11 (12 & 13 Wordpress comming soon)
 
 This repository contains the PHP Lab assignments (1 to 6) that I completed as a **Teaching Assistant**, showcasing my proficiency in PHP programming and my ability to mentor students. These labs cover core concepts and practical applications of PHP, emphasizing dynamic web development.
 
@@ -22,6 +22,11 @@ As a Teaching Assistant, I actively contributed to the learning experience by de
 4. **Lab 4:** Implementation of array
 5. **Lab 5:** Demonstration of function (User Defiend Function)
 6. **Lab 6:** Implementation of recursion and form processing
+7. **Lab 7:** Demonstration of server-side validation
+8. **Lab 8:** Demonstration of file upload
+9. **Lab 9:** Demonstration of session management using COOKIES and SESSION
+10. **Lab 10:** Implementation of CRUD operation using PHP (Part – I)
+11. **Lab 11:** Demonstration of prepared statement and stored procedure (Part – II)
 Each lab is designed to build upon the previous, offering students a hands-on approach to mastering PHP.
 
 ---
@@ -82,16 +87,21 @@ Each lab is designed to build upon the previous, offering students a hands-on ap
 
 ## Folder Structure
 ```
-php-labs/
-├── lab1/         # Demonstration of basics of PHP programming
-├── lab2/         # Implementation of decision-making statements (Part – I)
-├── lab3/         # Implementation of decision-making statements (Part – II)
-├── lab4/         # Implementation of array
-├── lab5/         # Demonstration of function (User Defiend Function)
-├── lab6/         # Implementation of recursion and form processing
+Diploma_4th_PHP_Solutions/
+├── Lab_1/         # Demonstration of basics of PHP programming
+├── Lab_2/         # Implementation of decision-making statements (Part – I)
+├── Lab_3/         # Implementation of decision-making statements (Part – II)
+├── Lab_4/         # Implementation of array
+├── Lab_5/         # Demonstration of function (User Defiend Function)
+├── Lab_6/         # Implementation of recursion and form processing
+├── Lab_7/         # Demonstration of server-side validation
+├── Lab_8/         # Demonstration of file upload
+├── Lab_9/         # Demonstration of session management using COOKIES and SESSION
+├── Lab_10/        # Implementation of CRUD operation using PHP (Part – I)
+├── Lab_11/        # Demonstration of prepared statement and stored procedure (Part – II)
 └── README.md     # Documentation
 ```
-More Labs ( 7 to 13 ) Comming soon....!!!
+More Labs ( 12 and 13 Wordpress ) Comming soon....!!!
 ---
 
 Feel free to reach out for collaboration or mentoring opportunities!
