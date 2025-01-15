@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# PHP Labs 1-11 (12 & 13 Wordpress comming soon)
-=======
 # PHP Labs 1-6 (7-13 comming soon)
 >>>>>>> a9be176f106719a88941b761a71485e16c3daac1
 
@@ -103,7 +100,7 @@ Diploma_4th_PHP_Solutions/
 ├── Lab_9/         # Demonstration of session management using COOKIES and SESSION
 ├── Lab_10/        # Implementation of CRUD operation using PHP (Part – I)
 ├── Lab_11/        # Demonstration of prepared statement and stored procedure (Part – II)
-└── README.md     # Documentation
+└── README.md      # Documentation
 ```
 More Labs ( 12 and 13 Wordpress ) Comming soon....!!!
 ---
